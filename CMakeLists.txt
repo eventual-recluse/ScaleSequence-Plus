@@ -7,7 +7,7 @@ cmake_minimum_required(VERSION 3.7)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(NAME ScaleSequencePlus)
+set(NAME ScaleSequence-Plus)
 project(${NAME})
 
 add_subdirectory(dpf)
